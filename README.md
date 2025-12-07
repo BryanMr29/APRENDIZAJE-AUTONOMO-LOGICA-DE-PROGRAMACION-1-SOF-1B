@@ -8,3 +8,6 @@
 ![Diagrama de Flujo de reinicio de juego](https://drive.google.com/uc?id=1R8eZiJPKGtQVfdn0nKoC4e4Gs1SUQP9t)
 ## Diagrama de Flujo de logica del juego
 ![Diagrama de Flujo de logica del juego](https://drive.google.com/uc?id=1ZDOmubC-W9FClAiGqGAWI_I3Jx6vgl3X)
+## VIDEO APRENDIZAJE AUTONOMO 2
+### URL VIDEO DRIVE: https://drive.google.com/file/d/1lvS9gNUB6XhPkZeovxr-jXUrG1L1RROB/view?usp=sharing
+[![Video aprendizaje práctico 2](https://drive.google.com/thumbnail?id=1lvS9gNUB6XhPkZeovxr-jXUrG1L1RROB)](https://drive.google.com/file/d/1lvS9gNUB6XhPkZeovxr-jXUrG1L1RROB/view?usp=sharing)
