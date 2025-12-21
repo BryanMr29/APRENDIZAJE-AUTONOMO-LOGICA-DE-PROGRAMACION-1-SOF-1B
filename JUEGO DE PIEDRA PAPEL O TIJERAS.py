@@ -78,7 +78,7 @@ while True:
     elif opcion == "2":
         #MOSTRAR GANADOR
         if puntos_usuario < puntos_computadora:
-            print("Suerte la proxima %s vez esta batalla ha terminado en empate" % (nombre_usuario))
+            print("Suerte la proxima %s has perdido" % (nombre_usuario))
         elif puntos_usuario > puntos_computadora :
             print("Felicidades %s, has ganado la partida" % (nombre_usuario))
         else:
