@@ -83,7 +83,7 @@ while True:
             print("Felicidades %s, has ganado la partida" % (nombre_usuario))
         else:
             print("Suerte la proxima vez %s, la batalla ha terminado en empate" % (nombre_usuario))
-        print(f"Gracias por jugar, {nombre_usuario}! ¡Hasta luego!")
+        print("Gracias por jugar, %s! ¡Hasta luego!" % (nombre_usuario))
         break
     else:
         print("Opción inválida. Por favor, intente de nuevo.")
