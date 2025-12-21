@@ -19,6 +19,9 @@
 #### Se pregunta al usuario si desea seguir jugando o salir (el codigo se ejecutara indefinidamente hasta que el usuario decida ya no jugar)
 #### Se muestra el ganador y un mensaje de despedida
 
+
+### PRESENTACION POWER POINT
+#### URL: https://docs.google.com/presentation/d/1Prp2drVF868JO1WQdo9wNhxgKUOiRUYy/edit?usp=sharing&ouid=116525471207489219258&rtpof=true&sd=true
 # APRENDIZAJE-AUTONOMO-LOGICA-DE-PROGRAMACION-1-SOF-1B
 # DIAGRAMA DE FLUJOS DE FUNCIONALIDAD
 ## Diagrama de Flujo Principal
